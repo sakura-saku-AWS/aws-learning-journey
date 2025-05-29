@@ -19,4 +19,7 @@
 - Blog: [Zenn](https://zenn.dev/sakura_saku)
 - X: さくら@Laravel × Python × AWS
 
+## ブログ記事
+- [AWS完全初心者がS3バケット作成に挑戦！](https://zenn.dev/sakura_saku/articles/6d61ec687654a9)
+
 一緒に学習している方、ぜひ交流しましょう！
